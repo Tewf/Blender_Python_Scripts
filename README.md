@@ -16,8 +16,3 @@ This repository contains a collection of visualizations and animations created i
 
 ---
 
-### **Getting Started**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
